@@ -9,6 +9,13 @@
 ### after Enter Value
 <img src="https://github.com/techiehkr/Password_Generator/blob/main/after.png" width="550" height="700">
 
-<a href="https://hardpass.netlify.app/"><img src = "https://blog.logrocket.com/wp-content/uploads/2020/12/react-netlify-logos.png" /></a>
+<a href="https://hardpass.netlify.app/"><img src = "https://www.logo.wine/a/logo/Netlify/Netlify-Logo.wine.svg" width="200" height="70"/> <h2>click here to view the page</h2></a>
 
+**How to Run**
+~~~text
+$ git clone https://github.com/techiehkr/Password_Generator.git
+$ cd cd Password_Generator/
+$ npm install
+$ npm start
+~~~
 
